@@ -1,6 +1,4 @@
 *.class
-*.metals
-*.vscode
 
 # Package Files #
 *.jar
